@@ -1,0 +1,5 @@
+Coloque suas imagens de capa de música aqui (JPG ou PNG).
+
+Depois, no arquivo index.html, altere o campo 'cover' das músicas para apontar para o nome da imagem local.
+Exemplo:
+cover: 'covers/minha_capa.jpg'

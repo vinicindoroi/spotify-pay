@@ -1,0 +1,9 @@
+Coloque seus arquivos de música em formato MP3 aqui dentro com os seguintes nomes para que toquem na presell:
+
+- song1.mp3 (Adele - Someone Like You)
+- song2.mp3 (Olivia Rodrigo - good 4 u)
+- song3.mp3 (The Weeknd - Blinding Lights)
+- song4.mp3 (Dua Lipa - Levitating)
+- song5.mp3 (The Kid LAROI - Stay)
+- song6.mp3 (Miley Cyrus - Flowers)
+- song7.mp3 (Harry Styles - As It Was)
